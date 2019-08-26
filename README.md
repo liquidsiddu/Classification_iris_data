@@ -12,8 +12,8 @@
 # 4. The dataset is of 4 attributes and 150 rows and one attribute is the class.
 # 5. This is the sample dataset which comes with same scale and same attributes.
 
-#After installing python with Scikit libraries.
-#Step-1
+#After installing python with Scikit libraries. Follow the below steps.
+
 # 1. Check with the libraries and its versions.
 # 2. Load Data
 # 3. Import Libraries
@@ -30,3 +30,5 @@
   # d. Classification and Regression Trees (CART).
   # e. Gaussian Naive Bayes (NB).
   # f. Support Vector Machines (SVM).
+  
+#Execution of these steps makes you understand about the process how to test the dataset accuracy.
