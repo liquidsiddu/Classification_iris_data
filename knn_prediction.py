@@ -1,5 +1,7 @@
 #This Example program is to predict the accuracy by training the data.
 
+#This Example is for KNN to solve Classification Problem.
+
 #Importing the Packages of SciKit Learn
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn import metrics
